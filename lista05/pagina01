@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+</head>
+    <body style="background-image: linear-gradient(to right, #a2aaaf,#bac2c7); font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        <main style="background-color: white; border-radius: 10px; width: 1000px; padding: 30px; margin: auto; box-shadow: 1px 1px 20px rgb(37, 37, 37);">
+            <h1 style="text-align: center;">PEDRO OCTÁVIO DIAS PEREIRA</h1>
+
+            <div style="text-align: center; margin-top: 30px; padding: 20px;">
+                <img src="Foto.png" alt="Minha foto" width="280px">
+            </div>
+
+            <div style="text-align: center; margin-top: 20px; box-shadow: 1px 1px 8px rgb(37, 37, 37); margin-left: 280px; margin-right: 280px; padding: 10px;">
+                <a href="https://wa.me/5534984138130" target="_blank"><img src="whats.png" alt="whatsapp icon" width="35px" style="margin-right: 25px;"></a>
+                <a href="https://www.linkedin.com/in/pedro-octávio-040aa9262/" target="_blank"><img src="linkedin.png" alt="linkedin icon" width="35px" style="margin-right: 25px;"></a>
+                <a href="https://github.com/Pedriass" target="_blank"><img src="git.png" alt="git icon" width="35px" style="margin-right: 25px;"></a>
+            </div>
+            
+            <h2 style="margin-left: 20px; margin-top: 50px;">SOBRE MIM</h2>
+                <hr>
+                <p style="text-indent: 40px; margin-left: 60px; margin-right: 75px; margin-top: 20px; margin-bottom: 0; text-align: justify;"> Nascido  no ano de 2001 em Patos de Minas - MG, tenho 22 anos de idade, formado no <b>Técnico em Redes de Computadores</b> pelo <b>IFTM</b>, retornei aos estudos na área da T.I neste ano de 2024, onde iniciei o curso de <b>Licenciatura em Computação</b> na mesma instituição citada. O curso tem enfoque no desenvolvimento das habilidades de docência na área da computação, porém a abordagem técnica da computação também é explorada durante toda a formação.
+                <p style="text-indent: 40px; margin-left: 60px; margin-right: 70px; margin-top: 0; text-align: justify;">Apesar de ter iniciado o curso recentemente, já busco a minha primeira experiência profissional na área, com o intuito de aprimorar minhas habilidades e ter a oportunidade de colocar em prática toda a teoria que é oferecida na graduação.</p>
+
+            <h2 style="margin-left: 20px; margin-top: 60px;"> FORMAÇÃO ACADÊMICA </h2>
+                <hr>
+                <ul style="margin-left: 60px; margin-top: 20px; margin-right: 75px; text-align: justify;">
+
+                    <li style="margin-bottom: 15px;"><b>Ensino médio</b> <i>(Completo)</i> - Ano de formação: 2020 - E. E. Américo René Giannetti</li>
+
+                    <li style="margin-bottom: 15px;"><b>Técnico - Redes de Computadores</b> <i>(Completo)</i> - Ano de formação: 2018 - IFTM (Instituto Federal do Triângulo Mineiro)</li>
+
+                    <li> <b>Graduação - Licenciatura em Computação</b> <i>(Cursando)</i> - Ano de entrada: 2024 - IFTM (Instituto Federal do Triângulo Mineiro)</li>
+
+                </ul>
+
+            <h2 style="margin-left: 20px; margin-top: 60px;"> EXPERIÊNCIAS PROFISSIONAIS </h2>
+                <hr>
+                <ul style="margin-left: 60px; margin-top: 20px; margin-right: 75px; text-align: justify;">
+
+                    <li style="font-size: 21px; margin-top: 35px;"><b>Algar Tech</b></li>
+                    <p style="margin-left: 20px;">
+                        <b>Cargo:</b> Atendente de relacionamentos
+                        <br>
+                        <b>Período:</b> 02/2024 – Trabalhando atualmente
+                        <br>
+                        <b>Principais atividade:</b> Realizar o atendimento receptivo de clientes com a resolução de problemas e dúvidas relacionado a produtos financeiros, garantindo a qualidade e a satisfação do cliente durante todo o processo.
+                    </p>
+
+                    <li style="font-size: 21px; margin-top: 35px;"><b>Callink</b></li>
+                    <p style="margin-left: 20px;">
+                        <b>Cargo:</b> Professor de Aprendizagem e Treinamento Comercial
+                        <br>
+                        <b>Período:</b> 02/2023 – 07/2023
+                        <br>
+                        <b>Principais atividades:</b> Realizar treinamentos que visam desenvolver o novo colaborador recém chegado na empresa tornando-o apto para o atendimento , assim como desenvolver os colaboradores que já estariam associados ao projeto. Gerir equipes, criar materiais de comunicação interna, preencher relatórios, etc.
+                    </p>
+                    
+                    <li style="font-size: 21px; margin-top: 35px;"><b>Callink</b></li>
+                    <p style="margin-left: 20px;">
+                        <b>Cargo:</b> Atendente de Relacionamentos
+                        <br>
+                        <b>Período:</b> 02/2021 - 02/2023
+                        <br>
+                        <b>Principais atividades:</b> Realizar o atendimento receptivo de clientes com a resolução de problemas que estariam envoltos ao serviço fornecido, garantindo a qualidade e a satisfação do cliente durante todo o processo.
+                    </p>
+
+                    <li style="font-size: 21px; margin-top: 35px;"><b>Unitri</b></li>
+                    <p style="margin-left: 20px;">
+                        <b>Cargo:</b> Auxiliar Administrativo - Jovem Aprendiz
+                        <br>
+                        <b>Período:</b> 07/2016 - 09/2016
+                        <br>
+                        <b>Principais atividades:</b> Realizar atividades gerais de organização do ambiente, administração de dados, recepção e atendimento aoss alunos na biblioteca da universidade. 
+                    </p>
+                </ul>
+        </main>
+</body>
+</html>
