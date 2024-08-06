@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+nav ul {
+    list-style: none;
+    background-color: rgb(31, 89, 197);
+    text-align: center;
+}
+
+nav a:link, nav a:visited {
+    color: white;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+header h1 {
+    text-align: right;
+    background-color: black;
+    font-size: 35px;
+}
+
+header h2 {
+    background-color: gray;
+    text-align: right;
+    font-size: 20px;
+}
+
+header h1, header h2{
+    color: white;
+    padding: 15px;
+
+}
+
+section {
+    background-color: white;
+    margin: 0px 100px 0px 100px;
+    padding: 30px;
+}
+
+section ul {
+    margin: 40px;
+}
+
+.caixaImagem{
+    text-align: center;
+}
